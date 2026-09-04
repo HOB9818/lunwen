@@ -1,0 +1,45 @@
+name: 章节写作任务
+description: 为某一章节登记目的、证据、交付物和验收条件
+title: "[章节] "
+labels: ["写作"]
+body:
+  - type: input
+    id: chapter
+    attributes:
+      label: 章节
+      placeholder: 例如 5.3.5 参数化模型生成与预览模块
+    validations:
+      required: true
+  - type: textarea
+    id: objective
+    attributes:
+      label: 本次目的
+      description: 这次修改要解决哪个明确问题
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 可用证据
+      description: 填写证据 ID、文件、数据、代码、截图或文献
+    validations:
+      required: true
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: 交付物
+      placeholder: 正文、图、表、代码、验证记录等
+    validations:
+      required: true
+  - type: checkboxes
+    id: acceptance
+    attributes:
+      label: 验收条件
+      options:
+        - label: 结论可由登记证据支撑
+          required: true
+        - label: 变量、单位和术语与全文一致
+          required: true
+        - label: 已更新进度表和必要的修改记录
+          required: true
+

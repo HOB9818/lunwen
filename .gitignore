@@ -1,0 +1,25 @@
+# Office 临时文件
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# 本地私密来源，不推送到 GitHub
+sources/private/
+
+# SolidWorks 与仿真大文件
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+*.bak
+*.edem
+*.dem
+simulation-output/
+
+# 本地导出与缓存
+_qa/
+.tmp/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+

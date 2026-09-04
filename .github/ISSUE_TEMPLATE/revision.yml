@@ -1,0 +1,39 @@
+name: 论文修正任务
+description: 登记导师意见、逻辑问题、事实错误或结构调整
+title: "[修正] "
+labels: ["修正"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题
+      description: 直接说明哪里错、为什么错
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 判断依据
+      description: 导师意见、数据、代码、公式或文献
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 修正方案
+      description: 明确需要删除、重写、补证据或重新验证的范围
+    validations:
+      required: true
+  - type: dropdown
+    id: impact
+    attributes:
+      label: 影响范围
+      options:
+        - 文字表达
+        - 章节结构
+        - 方法或公式
+        - 数据或图表
+        - 结论
+    validations:
+      required: true
+
