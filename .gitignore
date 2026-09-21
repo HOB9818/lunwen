@@ -6,6 +6,13 @@
 # 本地私密来源，不推送到 GitHub
 sources/private/
 
+# 文献原文与下载附件只保存在本机；Markdown 卡片和索引继续跟踪
+/literature/**/*.pdf
+/literature/**/*.caj
+/literature/**/*.nh
+/literature/**/*.zip
+/literature/**/*.rar
+
 # SolidWorks 与仿真大文件
 *.SLDPRT
 *.SLDASM
@@ -22,4 +29,3 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
-

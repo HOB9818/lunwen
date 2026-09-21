@@ -1,0 +1,77 @@
+{
+  "batch_id": "chapter1-style-theses-2026-09-17",
+  "checked_at": "2026-09-17T04:01:37.540Z",
+  "scope": "Zotero本地子附件关联；云端同步未操作",
+  "results": [
+    {
+      "id": "LIT-0020",
+      "parent_key": "WM5G8F4J",
+      "attachment_key": "X8LYKYE9",
+      "title": "三偏心蝶阀智能设计研究与分析",
+      "source_path": "C:\\Users\\Administrator\\Documents\\大论文 2\\literature\\01-绪论\\90-学位论文写作参考\\原文\\LIT-0020_吴浩宇_2020_三偏心蝶阀智能设计研究与分析.pdf",
+      "zotero_path": "C:\\Users\\Administrator\\Zotero\\storage\\X8LYKYE9\\LIT-0020_吴浩宇_2020_三偏心蝶阀智能设计研究与分析.pdf",
+      "content_type": "application/pdf",
+      "link_mode": 0,
+      "attachment_count": 1,
+      "file_exists": true,
+      "action": "imported",
+      "expected_sha256": "4CE307308763820B504D02079BA948871F223D08A36120EFE984718DABCF18D6"
+    },
+    {
+      "id": "LIT-0021",
+      "parent_key": "7F3G6WP5",
+      "attachment_key": "ZYDYBN2Y",
+      "title": "基于机器学习的离心泵叶轮智能优化设计平台",
+      "source_path": "C:\\Users\\Administrator\\Documents\\大论文 2\\literature\\01-绪论\\90-学位论文写作参考\\原文\\LIT-0021_陈云飞_2022_基于机器学习的离心泵叶轮智能优化设计平台.pdf",
+      "zotero_path": "C:\\Users\\Administrator\\Zotero\\storage\\ZYDYBN2Y\\LIT-0021_陈云飞_2022_基于机器学习的离心泵叶轮智能优化设计平台.pdf",
+      "content_type": "application/pdf",
+      "link_mode": 0,
+      "attachment_count": 1,
+      "file_exists": true,
+      "action": "imported",
+      "expected_sha256": "8DCB61EFDDB6A7D7BB5C2AA39C52FE12B8563A7C4C65FE55CF49BA2CEDCBC2EC"
+    },
+    {
+      "id": "LIT-0022",
+      "parent_key": "A489M75L",
+      "attachment_key": "PMQMXM5K",
+      "title": "基于案例汽车焊装夹具智能设计系统的研究与开发",
+      "source_path": "C:\\Users\\Administrator\\Documents\\大论文 2\\literature\\01-绪论\\90-学位论文写作参考\\原文\\LIT-0022_禹化宝_2014_基于案例汽车焊装夹具智能设计系统的研究与开发.pdf",
+      "zotero_path": "C:\\Users\\Administrator\\Zotero\\storage\\PMQMXM5K\\LIT-0022_禹化宝_2014_基于案例汽车焊装夹具智能设计系统的研究与开发.pdf",
+      "content_type": "application/pdf",
+      "link_mode": 0,
+      "attachment_count": 1,
+      "file_exists": true,
+      "action": "imported",
+      "expected_sha256": "E145C08DA7E80FFA1523AACFA9DDE113751DEE16B912E261A8FBF7F1A31A0FAE"
+    },
+    {
+      "id": "LIT-0023",
+      "parent_key": "SD2X886K",
+      "attachment_key": "FSIDHE74",
+      "title": "系列化随车起重机设计系统研究与开发",
+      "source_path": "C:\\Users\\Administrator\\Documents\\大论文 2\\literature\\01-绪论\\90-学位论文写作参考\\原文\\LIT-0023_刘晓健_2016_系列化随车起重机设计系统研究与开发.pdf",
+      "zotero_path": "C:\\Users\\Administrator\\Zotero\\storage\\FSIDHE74\\LIT-0023_刘晓健_2016_系列化随车起重机设计系统研究与开发.pdf",
+      "content_type": "application/pdf",
+      "link_mode": 0,
+      "attachment_count": 1,
+      "file_exists": true,
+      "action": "imported",
+      "expected_sha256": "814162AB59F66F1FB984492C94A2B9FB3410912214DAAD5AE48122F67B7B6AED"
+    },
+    {
+      "id": "LIT-0024",
+      "parent_key": "MNKWL5WZ",
+      "attachment_key": "88BPLJKF",
+      "title": "基于规则推理和多层实例库的组合夹具设计系统开发",
+      "source_path": "C:\\Users\\Administrator\\Documents\\大论文 2\\literature\\01-绪论\\90-学位论文写作参考\\原文\\LIT-0024_卢文轩_2017_基于规则推理和多层实例库的组合夹具设计系统开发.pdf",
+      "zotero_path": "C:\\Users\\Administrator\\Zotero\\storage\\88BPLJKF\\LIT-0024_卢文轩_2017_基于规则推理和多层实例库的组合夹具设计系统开发.pdf",
+      "content_type": "application/pdf",
+      "link_mode": 0,
+      "attachment_count": 1,
+      "file_exists": true,
+      "action": "imported",
+      "expected_sha256": "38AA87CBADDBFFC237EAE897A4A46F23A1E92600094295C44CD9D1581CC60448"
+    }
+  ]
+}

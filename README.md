@@ -28,12 +28,15 @@
 
 ## 常用入口
 
+- [作者确认稿 Word](deliverables/双轴桨叶式混合机大论文_确认稿汇总.docx)：只收录明确确认内容，按章节归位；桌面同名副本在确认合入后同步，规则见写作工作流。
 - [论文大纲](docs/outline.md)：唯一的章节结构清单，可随研究进展调整。
 - [章节进度](docs/progress.md)：每章目的、状态、证据缺口和下一步。
 - [证据登记](docs/evidence-register.md)：结论与代码、模型、仿真、公式、图表的对应关系。
 - [写作工作流](docs/writing-workflow.md)：如何写、怎么提交、何时调用写作 skill。
 - [来源登记](docs/source-register.md)：原始资料及其允许用途。
 - [修改记录](CHANGELOG.md)：结构、方法、数据和结论层面的重要变更。
+- [在线打开论文修改工作日志](https://hob9818.github.io/lunwen/)（[页面源文件](worklog/index.html)）：可视化查看作者意见、处理结果与待办，支持按时间和论文顺序筛选。
+- [论文文献检索库](literature/README.md)：按论文大纲分类保存文献、阅读卡片、可用摘录和正文引用位置。
 
 ## 一次标准修改
 
@@ -55,4 +58,3 @@ git push -u origin codex/chapter-5-macro-ui
 - “审查第3章，列出没有证据支撑的结论，先不要改正文。”
 - “调用论文润色 skill 改写 4.3，只改善表达，不改变数值和结论。”
 - “把本次修改同步到进度表和 CHANGELOG。”
-

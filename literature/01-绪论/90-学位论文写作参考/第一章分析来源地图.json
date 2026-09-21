@@ -1,0 +1,384 @@
+{
+  "analysis_date": "2026-09-17",
+  "task": "第一章写作结构和风格适配分析，不是全文解读或研究结果核验",
+  "page_numbering": "pdf_page为PDF文件中的一基页号；printed_page为正文印刷页号；分节跨页允许重叠",
+  "basis_outline": "docs/outline.md",
+  "score_rubric": {
+    "A": 25,
+    "B": 25,
+    "C": 20,
+    "D": 15,
+    "E": 15
+  },
+  "sources": [
+    {
+      "id": "LIT-0020",
+      "title": "三偏心蝶阀智能设计研究与分析",
+      "author": "吴浩宇",
+      "year": "2020",
+      "school": "西华大学",
+      "pdf_path": "C:/Users/Administrator/Documents/大论文 2/literature/01-绪论/90-学位论文写作参考/原文/LIT-0020_吴浩宇_2020_三偏心蝶阀智能设计研究与分析.pdf",
+      "wanfang_id": "D02070428",
+      "pdf_pages": 94,
+      "sha256": "4CE307308763820B504D02079BA948871F223D08A36120EFE984718DABCF18D6",
+      "reading_scope": {
+        "chapter": 1,
+        "pdf_pages": [
+          13,
+          18
+        ],
+        "printed_pages": [
+          1,
+          6
+        ],
+        "entire_thesis_read": false
+      },
+      "anchors": [
+        {
+          "anchor": "L20-BG",
+          "section": "1.1—1.2",
+          "pdf_pages": [
+            13,
+            15
+          ],
+          "printed_pages": [
+            1,
+            3
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L20-R",
+          "section": "1.3",
+          "pdf_pages": [
+            15,
+            17
+          ],
+          "printed_pages": [
+            3,
+            5
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L20-TASK",
+          "section": "1.4",
+          "pdf_pages": [
+            17,
+            18
+          ],
+          "printed_pages": [
+            5,
+            6
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        }
+      ],
+      "fit_score": 83,
+      "metadata_note": "题名、作者、学校和年份已与实际封面核对"
+    },
+    {
+      "id": "LIT-0021",
+      "title": "基于机器学习的离心泵叶轮智能优化设计平台",
+      "author": "陈云飞",
+      "year": "2022",
+      "school": "江苏大学",
+      "pdf_path": "C:/Users/Administrator/Documents/大论文 2/literature/01-绪论/90-学位论文写作参考/原文/LIT-0021_陈云飞_2022_基于机器学习的离心泵叶轮智能优化设计平台.pdf",
+      "wanfang_id": "D02739898",
+      "pdf_pages": 99,
+      "sha256": "8DCB61EFDDB6A7D7BB5C2AA39C52FE12B8563A7C4C65FE55CF49BA2CEDCBC2EC",
+      "reading_scope": {
+        "chapter": 1,
+        "pdf_pages": [
+          12,
+          20
+        ],
+        "printed_pages": [
+          1,
+          9
+        ],
+        "entire_thesis_read": false
+      },
+      "anchors": [
+        {
+          "anchor": "L21-BG",
+          "section": "1.1",
+          "pdf_pages": [
+            12,
+            13
+          ],
+          "printed_pages": [
+            1,
+            2
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L21-R1",
+          "section": "1.2.1",
+          "pdf_pages": [
+            13,
+            16
+          ],
+          "printed_pages": [
+            2,
+            5
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L21-R2",
+          "section": "1.2.2",
+          "pdf_pages": [
+            16,
+            18
+          ],
+          "printed_pages": [
+            5,
+            7
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L21-TASK",
+          "section": "1.3",
+          "pdf_pages": [
+            18,
+            20
+          ],
+          "printed_pages": [
+            7,
+            9
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        }
+      ],
+      "fit_score": 85,
+      "metadata_note": "中文封面答辩日期为2022-05-31；英文题名页2020,05与其不一致，保留原库年份2022"
+    },
+    {
+      "id": "LIT-0022",
+      "title": "基于案例汽车焊装夹具智能设计系统的研究与开发",
+      "author": "禹化宝",
+      "year": "2014",
+      "school": "烟台大学",
+      "pdf_path": "C:/Users/Administrator/Documents/大论文 2/literature/01-绪论/90-学位论文写作参考/原文/LIT-0022_禹化宝_2014_基于案例汽车焊装夹具智能设计系统的研究与开发.pdf",
+      "wanfang_id": "D571394",
+      "pdf_pages": 110,
+      "sha256": "E145C08DA7E80FFA1523AACFA9DDE113751DEE16B912E261A8FBF7F1A31A0FAE",
+      "reading_scope": {
+        "chapter": 1,
+        "pdf_pages": [
+          9,
+          24
+        ],
+        "printed_pages": [
+          1,
+          16
+        ],
+        "entire_thesis_read": false
+      },
+      "anchors": [
+        {
+          "anchor": "L22-BG",
+          "section": "章首及1.1—1.2",
+          "pdf_pages": [
+            9,
+            11
+          ],
+          "printed_pages": [
+            1,
+            3
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L22-R",
+          "section": "1.3",
+          "pdf_pages": [
+            12,
+            16
+          ],
+          "printed_pages": [
+            4,
+            8
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L22-THEORY",
+          "section": "1.4",
+          "pdf_pages": [
+            17,
+            21
+          ],
+          "printed_pages": [
+            9,
+            13
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L22-TASK",
+          "section": "1.5—1.6",
+          "pdf_pages": [
+            21,
+            24
+          ],
+          "printed_pages": [
+            13,
+            16
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        }
+      ],
+      "fit_score": 59,
+      "metadata_note": "题名、作者、学校和年份已与实际封面核对"
+    },
+    {
+      "id": "LIT-0023",
+      "title": "系列化随车起重机设计系统研究与开发",
+      "author": "刘晓健",
+      "year": "2016",
+      "school": "华中科技大学",
+      "pdf_path": "C:/Users/Administrator/Documents/大论文 2/literature/01-绪论/90-学位论文写作参考/原文/LIT-0023_刘晓健_2016_系列化随车起重机设计系统研究与开发.pdf",
+      "wanfang_id": "D01077280",
+      "pdf_pages": 65,
+      "sha256": "814162AB59F66F1FB984492C94A2B9FB3410912214DAAD5AE48122F67B7B6AED",
+      "reading_scope": {
+        "chapter": 1,
+        "pdf_pages": [
+          9,
+          14
+        ],
+        "printed_pages": [
+          1,
+          6
+        ],
+        "entire_thesis_read": false
+      },
+      "anchors": [
+        {
+          "anchor": "L23-BG",
+          "section": "1.1",
+          "pdf_pages": [
+            9,
+            10
+          ],
+          "printed_pages": [
+            1,
+            2
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L23-R",
+          "section": "1.2",
+          "pdf_pages": [
+            11,
+            13
+          ],
+          "printed_pages": [
+            3,
+            5
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L23-TASK",
+          "section": "1.3",
+          "pdf_pages": [
+            13,
+            14
+          ],
+          "printed_pages": [
+            5,
+            6
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        }
+      ],
+      "fit_score": 65,
+      "metadata_note": "题名、作者、学校和年份已与实际封面核对"
+    },
+    {
+      "id": "LIT-0024",
+      "title": "基于规则推理和多层实例库的组合夹具设计系统开发",
+      "author": "卢文轩",
+      "year": "2017",
+      "school": "南京航空航天大学",
+      "pdf_path": "C:/Users/Administrator/Documents/大论文 2/literature/01-绪论/90-学位论文写作参考/原文/LIT-0024_卢文轩_2017_基于规则推理和多层实例库的组合夹具设计系统开发.pdf",
+      "wanfang_id": "D01377107",
+      "pdf_pages": 76,
+      "sha256": "38AA87CBADDBFFC237EAE897A4A46F23A1E92600094295C44CD9D1581CC60448",
+      "reading_scope": {
+        "chapter": 1,
+        "pdf_pages": [
+          15,
+          20
+        ],
+        "printed_pages": [
+          1,
+          6
+        ],
+        "entire_thesis_read": false
+      },
+      "anchors": [
+        {
+          "anchor": "L24-BG",
+          "section": "1.1",
+          "pdf_pages": [
+            15,
+            15
+          ],
+          "printed_pages": [
+            1,
+            1
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L24-OV",
+          "section": "1.2",
+          "pdf_pages": [
+            16,
+            17
+          ],
+          "printed_pages": [
+            2,
+            3
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L24-R",
+          "section": "1.3",
+          "pdf_pages": [
+            18,
+            19
+          ],
+          "printed_pages": [
+            4,
+            5
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        },
+        {
+          "anchor": "L24-TASK",
+          "section": "1.4",
+          "pdf_pages": [
+            19,
+            20
+          ],
+          "printed_pages": [
+            5,
+            6
+          ],
+          "text_role": "原文定位；分析报告内容为概括，不是原文引语"
+        }
+      ],
+      "fit_score": 78,
+      "metadata_note": "题名、作者、学校和年份已与实际封面核对"
+    }
+  ]
+}
