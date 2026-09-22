@@ -30,7 +30,7 @@
 - 实现：新增`.github/workflows/pages.yml`，使用GitHub Pages官方Actions，仅上传`worklog`目录；README入口为`https://hob9818.github.io/lunwen/`。
 - 链接处理：工作日志在本地使用相对路径打开关联文件；在GitHub Pages中自动将关联文件转换为仓库`main`分支的文件或目录链接。
 - 边界：仓库当前为公开仓库；Pages不上传整个工作区，只发布工作日志页面。`literature`中的PDF、CAJ、NH及压缩附件仍由`.gitignore`排除，不能把Git推送等同于Zotero云同步。
-- 验证要求：推送后核对远程提交、Pages工作流结论、在线URL的HTTP状态和页面筛选功能；验证完成前不得只根据工作流文件存在声称在线发布成功。
+- 验证：2026-09-22已将提交`0043216`推送到`origin/main`；Pages工作流运行`35691215602`结论为`success`，`https://hob9818.github.io/lunwen/`返回HTTP 200并包含M-036。此前已在本地浏览器核对时间/论文顺序切换及Zotero关键词筛选。
 
 ### E-029 论文修改意见可视化工作日志（2026-09-21）
 
